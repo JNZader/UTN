@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1afd38c2-9f83-41c2-ba05-112c05649271" name="Changes" comment="1er">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad3/Ej1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad3/Ej2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Actividad2/Transformador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Actividad2/Transformador.java" afterDir="false" />
+    <list default="true" id="1afd38c2-9f83-41c2-ba05-112c05649271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad1/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad1/Inscripcion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad1/Materia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad2/Transformador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2Y5uUyBM0QCxvVZI3YGFxPyKout" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,12 +49,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/javie/IdeaProjects/ActividadesUTN",
+    "last_opened_file_path": "C:/Users/javie/IdeaProjects/ActividadesUTN/src/main/java/Ejercicio1",
     "onboarding.tips.debug.path": "C:/Users/javie/IdeaProjects/ActividadesUTN/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -63,37 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699827782390</updated>
     </task>
-    <task id="LOCAL-00001" summary="1er">
-      <option name="closed" value="true" />
-      <created>1699830882930</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1699830882930</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="false" />
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="1er" />
-    <option name="LAST_COMMIT_MESSAGE" value="1er" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
