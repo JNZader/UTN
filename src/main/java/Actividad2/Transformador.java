@@ -27,8 +27,8 @@ public class Transformador {
 
         // imprime lista original
         System.out.println("\nImprime lista original");
-        for (String transformed : lista) {
-            System.out.print(transformed+" ");
+        for (String aux : lista) {
+            System.out.print(aux+" ");
         }
 
         // instancia la interfaz funcional para transformar a mayusculas
