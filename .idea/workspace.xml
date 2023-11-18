@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1afd38c2-9f83-41c2-ba05-112c05649271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad4/Auge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad4/Cancion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad4/Estado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad4/Formato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad4/Icono.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad4/Normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividad4/Tendencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Actividad3/Ej2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Actividad3/Ej2.java" afterDir="false" />
     </list>
@@ -16,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -27,7 +36,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2Y5uUyBM0QCxvVZI3YGFxPyKout" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,6 +58,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Actividad4" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\javie\IdeaProjects\ActividadesUTN\src\main\java\Ejercicio1" />
     </key>
